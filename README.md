@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-html-css-cwcYshdiVP)
 - Live Site URL: [Add live site URL here](https://alberto170.github.io/QR-code-component---Frontend-Mentor/)
 
 ## My process
